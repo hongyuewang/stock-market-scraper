@@ -1,2 +1,2 @@
 # stock-market-scraper
-A program that scrapes stock market data about the largest companies in the United States from tradingview.com.
+A program that scrapes data about the largest companies on the US Stock Market from tradingview.com.
